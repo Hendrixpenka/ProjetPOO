@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf65c8b8-38f0-42fc-b73b-93c84190d5d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniProjetPOO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/Agent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/Enseignant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/Etudiant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/Repertoire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceGraphique/CreationContact.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceGraphique/CreationContact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceGraphique/Jtable.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceGraphique/Jtable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceGraphique/MainFmApplication.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaceGraphique/MainFmApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +45,8 @@
     "last_opened_file_path": "C:/Users/Don_Pk2.0/Desktop/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,5 +59,16 @@
       <updated>1711979443775</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
